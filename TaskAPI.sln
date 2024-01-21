@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskAPI", "TaskAPI\TaskAPI.csproj", "{3956B2F0-437E-45BD-BC1E-19D9176F1AB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APITest", "APITest\APITest.csproj", "{B613EBB2-EACF-4842-AAC6-2A7221ADEF2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3956B2F0-437E-45BD-BC1E-19D9176F1AB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3956B2F0-437E-45BD-BC1E-19D9176F1AB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3956B2F0-437E-45BD-BC1E-19D9176F1AB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3956B2F0-437E-45BD-BC1E-19D9176F1AB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B613EBB2-EACF-4842-AAC6-2A7221ADEF2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B613EBB2-EACF-4842-AAC6-2A7221ADEF2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B613EBB2-EACF-4842-AAC6-2A7221ADEF2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B613EBB2-EACF-4842-AAC6-2A7221ADEF2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B351C80A-6907-4A46-B31D-165F1A58CD5C}
+	EndGlobalSection
+EndGlobal
